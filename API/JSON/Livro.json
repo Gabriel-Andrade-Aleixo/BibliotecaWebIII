@@ -1,0 +1,33 @@
+[
+    {
+      "Titulo": "Dom Casmurro",
+      "Autor": "Machado de Assis",
+      "AnoPublicacao": 1899,
+      "isbn": "978-85-359-0277-5"
+    },
+    {
+      "Titulo": "O Cortiço",
+      "Autor": "Aluísio Azevedo",
+      "AnoPublicacao": 1890,
+      "isbn": "978-85-200-0543-0"
+    },
+    {
+      "Titulo": "Memórias Póstumas de Brás Cubas",
+      "Autor": "Machado de Assis",
+      "AnoPublicacao": 1881,
+      "isbn": "978-85-359-0276-8"
+    },
+    {
+      "Titulo": "Grande Sertão: Veredas",
+      "Autor": "João Guimarães Rosa",
+      "AnoPublicacao": 1956,
+      "isbn": "978-85-325-1952-1"
+    },
+    {
+      "Titulo": "Vidas Secas",
+      "Autor": "Graciliano Ramos",
+      "AnoPublicacao": 1938,
+      "isbn": "978-85-359-0011-5"
+    }
+  ]
+  

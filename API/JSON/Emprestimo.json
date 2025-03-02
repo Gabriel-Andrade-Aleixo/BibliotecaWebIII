@@ -1,0 +1,28 @@
+[
+    {
+      "Livro": "Dom Casmurro",
+      "Usuario": "joao@email.com",
+      "DataEmprestimo": "2024-03-02"
+    },
+    {
+      "Livro": "O Cortiço",
+      "Usuario": "maria@email.com",
+      "DataEmprestimo": "2024-03-01"
+    },
+    {
+      "Livro": "Memórias Póstumas de Brás Cubas",
+      "Usuario": "carlos@email.com",
+      "DataEmprestimo": "2024-02-28"
+    },
+    {
+      "Livro": "Grande Sertão: Veredas",
+      "Usuario": "ana@email.com",
+      "DataEmprestimo": "2024-02-25"
+    },
+    {
+      "Livro": "Vidas Secas",
+      "Usuario": "fernando@email.com",
+      "DataEmprestimo": "2024-02-20"
+    }
+  ]
+  
