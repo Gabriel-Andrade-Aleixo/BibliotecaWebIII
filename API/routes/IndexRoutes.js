@@ -12,4 +12,3 @@ router.get('*', controllerIndex.indexNotFound);
 
 
 module.exports = router
-
